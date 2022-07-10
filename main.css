@@ -1,0 +1,26 @@
+h1.title {
+  color:yellow;
+}
+
+h1.number {
+  color:blue;
+  background-color:white;
+}
+
+/*Image Small*/
+
+img.small {
+  width:40px;
+  height:40px
+}
+
+/*Buttons*/
+
+button{
+  background-color:green;
+}
+
+button.disbaled{
+  background-color:red;
+  cursor:not-allowed;
+}
