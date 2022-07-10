@@ -24,3 +24,17 @@ button.disbaled{
   background-color:red;
   cursor:not-allowed;
 }
+
+/* Import Fonts */
+
+@font-face {
+  font-family: Roboto Mono;
+  src: url(https://cdn.glitch.global/128c8033-c88b-4635-8278-f225c7d03953/RobotoMono-Regular.ttf?v=1657460162888);
+}
+
+/* Set Fonts */
+
+body {
+  background-color:blue;
+  font-family:Roboto Mono;
+}
